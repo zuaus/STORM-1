@@ -4,6 +4,7 @@
 "DEVCOURSE": "@TAHAJ20",
 "CH_STORM": "@STORMCLI"},
 "plugins_": {
-"help.lua": ""
+"help_rep.lua": "",
+"games.lua": ""
 }
 }
